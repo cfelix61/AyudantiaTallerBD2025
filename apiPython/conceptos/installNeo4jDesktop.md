@@ -1,14 +1,14 @@
 
-# 📘 Manual de Instalación de Neo4j Desktop
+# Manual de Instalación de Neo4j Desktop
 
-## 🔗 Enlaces de Descarga
+## Enlaces de Descarga
 
 - Página oficial de descarga: [https://neo4j.com/download/](https://neo4j.com/download/)
 - Centro de despliegue: [https://neo4j.com/deployment-center/?desktop-gdb](https://neo4j.com/deployment-center/?desktop-gdb)
 
 ---
 
-## 🐧 Instalación en Linux
+## Instalación en Linux
 
 ### 1. Descargar el archivo `.AppImage`
 Descarga el archivo `.AppImage` desde el [Centro de despliegue de Neo4j](https://neo4j.com/deployment-center/?desktop-gdb).
@@ -34,7 +34,7 @@ Al iniciar por primera vez, puedes ingresar una clave de activación si dispones
 
 ---
 
-## 🍎 Instalación en macOS
+## Instalación en macOS
 
 ### 1. Descargar el archivo `.dmg`
 Descarga el archivo `.dmg` desde el [Centro de despliegue de Neo4j](https://neo4j.com/deployment-center/?desktop-gdb).
@@ -50,7 +50,7 @@ Al iniciar por primera vez, puedes ingresar una clave de activación si dispones
 
 ---
 
-## 🪟 Instalación en Windows
+## Instalación en Windows
 
 ### 1. Descargar el instalador
 Descarga el instalador desde el [Centro de despliegue de Neo4j](https://neo4j.com/deployment-center/?desktop-gdb).
@@ -73,7 +73,7 @@ Al iniciar por primera vez, puedes ingresar una clave de activación si dispones
 
 ---
 
-## 🛠️ Requisitos del Sistema
+## Requisitos del Sistema
 
 - **macOS**: 10.10 (Yosemite) o superior
 - **Windows**: 8.1 o superior con PowerShell
@@ -81,7 +81,7 @@ Al iniciar por primera vez, puedes ingresar una clave de activación si dispones
 
 ---
 
-## 📚 Recursos Adicionales
+## Recursos Adicionales
 
 - Documentación oficial: [https://neo4j.com/docs/desktop-manual/current/](https://neo4j.com/docs/desktop-manual/current/)
 - Tutoriales en video:
